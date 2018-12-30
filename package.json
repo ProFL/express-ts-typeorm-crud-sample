@@ -1,7 +1,8 @@
 {
   "name": "express-crud",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
+  "license": "BSD",
   "scripts": {
     "start": "ts-node ./src/bin/www.ts",
     "debug": "nodemon"
